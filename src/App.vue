@@ -6,7 +6,7 @@ export default {
   },
   data() {
     return {
-      pagTitle: 'my first list',
+      pagTitle: 'my first list sligght change',
       myList: [
         {
           id: 1,
